@@ -66,7 +66,7 @@ lastName (String)
 address (Address)
 ```
 
-*Address Model
+* Address Model
 ```
 id (Long)
 street (String)
