@@ -94,15 +94,16 @@ Zipcode (String)
 
 The following endpoints are available in the API:
 
-```
 * Employee
+```
 GET /employees - get all employees
 GET /employees/{id} - get an employee by id
 POST /employees - create a new employee
 PUT /employees/{id} - update an employee by id
 DELETE /employees/{id} - delete an employee by id
-
+```
 * Address
+```
 GET /addresses - get all addresses
 GET /addresses/{id} - get an address by id
 POST /addresses - create a new address
