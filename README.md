@@ -67,6 +67,7 @@ address (Address)
 ```
 
 *Address Model
+```
 id (Long)
 street (String)
 City (String)
