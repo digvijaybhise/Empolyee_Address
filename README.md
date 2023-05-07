@@ -9,7 +9,7 @@
     <img alt="Maven" src="https://img.shields.io/badge/maven-3.0.6-brightgreen.svg" />
 </a>
 </center>
-This is a backend API built using the Spring framework that handles various HTTP requests for Employee address domain. The API allows users to create accounts and manage addresses
+This is a backend API built using the Spring framework that handles various HTTP requests for Employee address domain. The API allows employee to create accounts and manage addresses
 
 ---
 <br>
